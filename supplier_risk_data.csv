@@ -1,0 +1,101 @@
+supplier_id;region;industry;on_time_delivery_rate;defect_rate;avg_lead_time_days;financial_score;past_incidents;high_risk
+S0001;Africa;Retail;0.99;0.07;37;816;0;0
+S0002;South America;Manufacturing;0.76;0.05;37;328;1;0
+S0003;Asia;Retail;0.93;0.06;65;464;8;1
+S0004;South America;IT;0.92;0.06;55;721;2;0
+S0005;South America;Manufacturing;0.66;0.17;47;638;0;0
+S0006;Europe;Healthcare;0.8;0.03;16;795;4;0
+S0007;Asia;Logistics;0.88;0.14;71;664;6;0
+S0008;Asia;Retail;0.94;0.11;69;641;5;0
+S0009;Asia;Logistics;0.73;0.06;37;799;0;0
+S0010;South America;Logistics;0.69;0.08;44;810;4;0
+S0011;Africa;Manufacturing;0.88;0.05;78;626;4;0
+S0012;Asia;Logistics;0.92;0.12;47;516;5;0
+S0013;South America;Healthcare;0.74;0.02;48;600;2;0
+S0014;Europe;Logistics;0.64;0.0;33;431;4;0
+S0015;Africa;Manufacturing;0.98;0.13;17;369;6;0
+S0016;Europe;Healthcare;0.76;0.04;16;551;4;0
+S0017;Africa;IT;0.81;0.01;50;714;4;0
+S0018;South America;Logistics;0.94;0.08;6;744;4;0
+S0019;North America;Manufacturing;0.87;0.01;39;481;9;1
+S0020;Africa;IT;0.89;0.18;85;466;9;1
+S0021;Europe;IT;0.68;0.01;12;390;2;0
+S0022;South America;Retail;0.82;0.12;30;830;0;0
+S0023;Africa;Healthcare;0.88;0.09;78;338;4;1
+S0024;North America;Logistics;0.69;0.13;38;425;8;1
+S0025;North America;Manufacturing;0.67;0.07;11;750;0;0
+S0026;Asia;Retail;0.99;0.03;72;472;2;0
+S0027;Asia;Healthcare;0.81;0.2;62;519;3;0
+S0028;Europe;Retail;0.7;0.17;79;357;0;0
+S0029;Africa;Healthcare;1.0;0.17;33;775;0;0
+S0030;Africa;Healthcare;0.99;0.05;40;755;7;0
+S0031;Asia;Logistics;0.82;0.01;25;660;1;0
+S0032;Africa;Healthcare;0.95;0.06;40;300;7;1
+S0033;Africa;Retail;0.68;0.11;14;686;6;0
+S0034;North America;Healthcare;0.71;0.07;77;647;9;1
+S0035;Asia;Logistics;0.88;0.17;28;489;9;1
+S0036;South America;Logistics;0.94;0.05;68;804;1;0
+S0037;Asia;Retail;0.94;0.19;53;490;5;0
+S0038;South America;IT;0.76;0.09;40;807;5;0
+S0039;North America;IT;0.96;0.17;86;668;2;0
+S0040;Europe;Healthcare;0.94;0.04;28;708;10;0
+S0041;Africa;Manufacturing;0.97;0.08;27;416;1;0
+S0042;North America;Healthcare;0.91;0.14;66;433;0;0
+S0043;Africa;Retail;0.87;0.03;41;357;5;0
+S0044;Europe;Retail;0.83;0.03;16;472;4;0
+S0045;Europe;Retail;0.75;0.19;59;448;10;1
+S0046;North America;Retail;0.98;0.14;17;379;8;1
+S0047;Europe;Retail;0.99;0.01;27;512;0;0
+S0048;South America;Logistics;0.71;0.08;34;502;6;0
+S0049;Europe;IT;0.72;0.09;21;528;4;0
+S0050;Africa;Retail;0.79;0.15;66;526;4;0
+S0051;Africa;Manufacturing;0.78;0.05;88;831;1;0
+S0052;Africa;Manufacturing;1.0;0.04;90;740;10;1
+S0053;Africa;Manufacturing;0.67;0.02;17;701;2;0
+S0054;South America;Manufacturing;0.61;0.09;63;346;6;1
+S0055;Asia;Logistics;0.8;0.14;23;532;5;0
+S0056;North America;Manufacturing;0.67;0.01;53;604;1;0
+S0057;Africa;Retail;0.75;0.18;16;825;5;0
+S0058;Europe;Healthcare;0.9;0.09;65;442;1;0
+S0059;Africa;Manufacturing;0.89;0.05;23;714;1;0
+S0060;Europe;Logistics;0.72;0.02;80;812;1;0
+S0061;Europe;Logistics;0.82;0.04;13;672;10;0
+S0062;Africa;Manufacturing;0.8;0.19;75;558;2;0
+S0063;South America;Healthcare;0.85;0.13;32;770;1;0
+S0064;Europe;Manufacturing;0.7;0.1;82;311;3;1
+S0065;Europe;Logistics;0.84;0.13;56;629;8;1
+S0066;Africa;IT;0.99;0.09;87;657;5;0
+S0067;Europe;Retail;0.79;0.15;20;707;0;0
+S0068;Europe;Logistics;0.96;0.01;73;672;7;0
+S0069;Africa;Manufacturing;0.77;0.11;16;307;6;1
+S0070;Africa;Retail;0.74;0.03;29;421;9;1
+S0071;North America;Manufacturing;0.86;0.02;56;647;2;0
+S0072;South America;Manufacturing;0.87;0.07;89;389;0;0
+S0073;South America;IT;0.95;0.02;57;615;4;0
+S0074;Europe;Retail;0.69;0.02;27;477;3;0
+S0075;South America;Retail;0.8;0.06;20;839;9;0
+S0076;Europe;IT;0.83;0.2;61;340;7;1
+S0077;North America;Logistics;0.91;0.04;43;801;0;0
+S0078;Africa;Manufacturing;0.62;0.0;57;444;9;1
+S0079;Africa;Healthcare;1.0;0.15;46;500;0;0
+S0080;Africa;Manufacturing;0.79;0.16;62;760;3;0
+S0081;South America;Manufacturing;0.71;0.07;43;846;7;0
+S0082;North America;Logistics;0.95;0.09;18;552;4;0
+S0083;South America;Manufacturing;0.9;0.13;9;689;1;0
+S0084;South America;IT;0.98;0.01;39;555;5;0
+S0085;North America;IT;0.73;0.19;79;749;4;0
+S0086;North America;Retail;0.82;0.18;22;309;1;0
+S0087;North America;Healthcare;0.83;0.05;80;541;10;1
+S0088;North America;Manufacturing;0.99;0.0;13;550;10;0
+S0089;Africa;Manufacturing;0.63;0.19;78;304;10;1
+S0090;Asia;Logistics;0.72;0.1;62;418;2;0
+S0091;Asia;IT;0.68;0.11;21;673;8;0
+S0092;North America;Healthcare;0.71;0.14;11;364;6;1
+S0093;Asia;Retail;0.79;0.12;50;445;6;1
+S0094;Asia;IT;0.75;0.19;17;523;10;1
+S0095;North America;Retail;0.76;0.19;44;538;5;0
+S0096;Asia;Logistics;0.94;0.17;46;476;7;1
+S0097;South America;Logistics;0.97;0.13;13;581;3;0
+S0098;Europe;Manufacturing;0.63;0.16;54;362;7;1
+S0099;Europe;Healthcare;0.68;0.14;31;516;3;0
+S0100;North America;Retail;0.87;0.11;70;760;7;0
